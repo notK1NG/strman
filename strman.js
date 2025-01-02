@@ -1,7 +1,7 @@
 function concat(a,b){
     return a + b;
 }
-function printfirst(a){
+function printFirst(a){
     return a[0];
 }
 function printLast(a){
