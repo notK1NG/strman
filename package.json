@@ -1,0 +1,14 @@
+{
+  "name": "strman",
+  "version": "1.0.0",
+  "description": "Some string manipulation functions",
+  "main": "strman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Pranith",
+  "license": "ISC",
+  "dependencies": {
+    "package537": "^1.0.0"
+  }
+}
